@@ -1,9 +1,11 @@
 #include <stdio.h>
+using namespace std;
 
  int main() {
-
-
- printf("Helloo");
+  
+//just do for contribution practice
+ String messege = " Helloo ";
+ printf(messege);
 
 
 
